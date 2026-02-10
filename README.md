@@ -58,7 +58,7 @@ Product-Recommender-Streamlit/
 ## 🚀 How to Run Locally
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Naman-27072004/product-recommender-system.git
 cd product-recommender-streamlit
 ```
 ### 2️⃣ Install Dependencies
@@ -107,4 +107,5 @@ This project is licensed under the MIT License.
 - Naman Gupta
 - MCA @ JIMS Rohini
 - Full-Stack Developer | AI & ML Enthusiast
+
 
